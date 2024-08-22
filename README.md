@@ -1,5 +1,5 @@
-## Hi 👋
-- 🔭 [blog](https://mncmb.github.io/)
+## Hello 👋
+- 🔭 [github pages](https://mncmb.github.io/)
 <!--
 **mncmb/mncmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
